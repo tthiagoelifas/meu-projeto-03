@@ -14,5 +14,5 @@ Projeto de um site que apresenta um produto de seguraça da informação!
 
 ## Screenshots
 
-![preview](./assets/Screenshot_5.png)
+![preview](./Screenshot_5.png)
 
